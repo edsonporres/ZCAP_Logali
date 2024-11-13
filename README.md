@@ -1,2 +1,2 @@
 # Zcap_logali
-Proyecto final Logali Rap
+Proyecto final Logali CAP
